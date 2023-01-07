@@ -1,0 +1,2 @@
+# epa_basic_information_table
+利用python-docx產出WORD資料表
